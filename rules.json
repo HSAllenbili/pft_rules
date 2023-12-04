@@ -3,13 +3,13 @@
     "data": [
       {
         "ruleId": "1",
-        "routeRule": "缺少女生的路线信息",
+        "routeRule": "缺少大一的备用路线信息",
         "ruleStartTime": "11:40",
         "ruleEndTime": "05:14"
       },
       {
         "ruleId": "2",
-        "routeRule": "注意选择合理的运动时间",
+        "routeRule": "使用备用路线时注意选择合理的运动时间",
         "ruleStartTime": "19:19",
         "ruleEndTime": "08:10"
       },
@@ -1350,7 +1350,9 @@
                 "sortNum": 34
               }
             ]
-          },
+          }
+        ]
+      },
       {
         "ruleId": "415544554137895134",
         "routeRule": "大一男生",
@@ -1933,4 +1935,3 @@
       }
     ]
   }
-  
